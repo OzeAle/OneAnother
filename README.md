@@ -120,3 +120,13 @@
     <button type="submit">Submit</button>
   </form>
 </main>
+
+# Creation colored background
+<style>
+ .blue-background {
+    background-color: blue;
+  }
+</style>
+<div class="blue-background">
+  <p> Example </p>
+</div>
